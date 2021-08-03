@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaisnanocat)](https://github.com/anuraghazra/github-readme-stats)
+[![elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaisnanocat&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
