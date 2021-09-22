@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<hr>
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={yjks0201})](https://solved.ac/{yjks0201})
+
+<hr>
+
 ![elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenaisnanocat&show_icons=true&theme=tokyonight)
 
 <!--
