@@ -2,7 +2,7 @@
 
 <hr>
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={elenaisnanocat})](https://solved.ac/{elenaisnanocat})
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={yjks0201})](https://solved.ac/{yjks0201})
 
 <hr>
 
