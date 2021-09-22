@@ -1,6 +1,9 @@
 <div align="center">
 
 ### Hi there 👋
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjks0201)](https://solved.ac/yjks0201)
 
 <hr>
 
