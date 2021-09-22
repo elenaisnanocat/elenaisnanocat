@@ -1,3 +1,4 @@
+<div align="center">
 ### Hi there 👋
 
 <hr>
@@ -22,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
